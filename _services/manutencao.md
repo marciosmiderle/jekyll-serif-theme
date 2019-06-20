@@ -3,6 +3,8 @@ title: 'Accounting'
 image: '/services/noun_591323.png'
 ---
 
+Recuperação de senhas de contas de email, google, facebook
+
 Manutenção de Computadores, serviços de informática (R$ 65,00)
 
 Manutenção, Configuração, Backup e Formatação.
